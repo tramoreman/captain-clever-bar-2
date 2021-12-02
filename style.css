@@ -54,3 +54,12 @@
     font-size: 1.75rem;
     margin-bottom: 30px;
 }
+
+.jumbotron {
+ background: url(images/41.jpg) no-repeat center center; 
+ background-size: cover; 
+ background-color: transparent;
+ height: 500px; 
+ margin-bottom: 0px;
+ 
+ } 
